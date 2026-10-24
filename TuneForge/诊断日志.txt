@@ -1,0 +1,29 @@
+10-24 22:18:47  点击重命名 slot=17 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 22:18:53  输入框返回 r=OK value=[吉他· 采样]
+10-24 22:22:58  点击重命名 slot=17 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 22:23:07  输入框返回 r=OK value=[吉他· 采样]
+10-24 22:23:07  保存重命名 Acoustic Sustain.sf2 => 吉他· 采样
+10-24 22:50:59  点击重命名 slot=17 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 22:51:05  输入框返回 r=OK value=[吉他 · 采样]
+10-24 22:51:05  保存重命名 Acoustic Sustain.sf2 => 吉他 · 采样
+10-24 22:55:07  打开文件夹 D:\17963\gongju\TuneForge\音源 => 成功
+10-24 22:57:27  打开文件夹 D:\17963\gongju\TuneForge\音源 => 成功
+10-24 22:57:41  打开文件夹 D:\17963\gongju\TuneForge\音源 => 成功
+10-24 22:58:06  打开文件夹 D:\17963\gongju\TuneForge\音源 => 成功
+10-24 23:02:47  点击重命名 slot=17 rect={X=801,Y=448.5,Width=105,Height=36}
+10-24 23:02:58  输入框返回 r=OK value=[吉他 · 采样]
+10-24 23:02:58  保存重命名 Acoustic Sustain.sf2 => 吉他 · 采样
+10-24 23:02:59  点击重命名 slot=18 rect={X=801,Y=514.5,Width=105,Height=36}
+10-24 23:03:05  输入框返回 r=OK value=[小提琴 · 采样]
+10-24 23:03:05  保存重命名 Violins Legato.sf2 => 小提琴 · 采样
+10-24 23:03:06  点击重命名 slot=19 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 23:03:17  输入框返回 r=OK value=[钢琴 · 采样]
+10-24 23:03:17  保存重命名 YAMAHA C5 Standard.sf2 => 钢琴 · 采样
+10-24 23:07:09  点击重命名 slot=17 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 23:07:14  输入框返回 r=OK value=[吉他 · 采样]
+10-24 23:07:14  保存重命名 Acoustic Sustain.sf2 => 吉他 · 采样
+10-24 23:21:28  打开文件夹 D:\17963\gongju\TuneForge\音源 => 成功
+10-24 23:23:19  点击重命名 slot=17 rect={X=801,Y=580.5,Width=105,Height=36}
+10-24 23:23:28  输入框返回 r=OK value=[钢琴 · 采样]
+10-24 23:23:28  保存重命名 YAMAHA C5 Standard.sf2 => 钢琴 · 采样
+10-24 23:29:02  打开文件夹 D:\17963\TuneForge\音源 => 成功
